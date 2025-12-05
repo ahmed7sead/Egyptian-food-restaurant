@@ -2,6 +2,9 @@
 
 Egyptian food restaurant website built with React showcasing traditional cuisine.
 
+## Live Preview
+https://egyptian4food.vercel.app/
+
 ## Technologies Used
 
 - **React 18** - UI library
